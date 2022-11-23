@@ -1,0 +1,22 @@
+{
+  "name": "cypress-e2e-demo",
+  "version": "1.0.0",
+  "description": "Primer ejemplo usando cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "cypress:open": "cypress open"
+  },
+  "keywords": [
+    "E2E",
+    "Automation",
+    "Testing",
+    "Framework",
+    "Demo"
+  ],
+  "author": "hbenavidez",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^11.1.0"
+  }
+}
